@@ -1,7 +1,7 @@
 # Chess Analysis
 
 ## Data Processing
-Analysis of which squares in classic chess game are most common to find a king positiones at the  moment of receiving check mates.
+Analysis of which squares in classic chess game are most common to find king at the moment of receiving check mate.
 
 Data is processed by filtering games ended by check mate, then splitting games based on the winner (white or black) and finally extracting all the moves of a single player.
 The last operation was conducted in Google sheets using regular expression function.
