@@ -2,7 +2,7 @@
 
 ## Data Processing
 Analysis of which squares in classic chess game are most common to find king at the moment of receiving check mate.
-Over 20000 games are analyzed and 2476 observe a check mate.
+Over 20000 games are analyzed and 2476 ended by check mate.
 
 Data is processed by filtering games ended by check mate, then splitting games based on the winner (white or black) and finally extracting all the moves of a single player.
 The last operation was conducted in Google sheets using regular expression function.
