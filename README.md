@@ -16,8 +16,9 @@ Finally the 2 dataset are joined together for a single visualization.
 
 ![alt text](https://github.com/giandata/check_mates/blob/main/mates.JPG)
 
-4) Further exploration of the games indicated in simmetrically opposite way ti the king's mates how the left-most side of the board is where pawn are mostly promoted.
+4) Further exploration of the games indicated in simmetrically opposite way to the king's mates that the left-most side of the board is where pawn are mostly promoted.
 5) It is interesting  to discover that column A is the most prolific column for promoting pawns.
+6) The less promoting columns areas expected the central D and E.
 
 ![alt text](https://github.com/giandata/check_mates/blob/main/pawns.JPG)
 
